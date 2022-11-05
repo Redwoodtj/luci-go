@@ -56,7 +56,7 @@
         "@fontsource/roboto": "^4.5.8",
         "@mui/icons-material": "^5.8.4",
         "@mui/lab": "^5.0.0-alpha.95",
-        "@mui/material": "^5.10.1",
+        "@mui/material": "^5.10.9",
         "@reduxjs/toolkit": "^1.8.5",
         "dayjs": "^1.11.5",
         "esbuild-sass-plugin": "^2.3.2",
