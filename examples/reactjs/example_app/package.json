@@ -54,7 +54,7 @@
         "@emotion/react": "^11.10.0",
         "@emotion/styled": "^11.10.0",
         "@fontsource/roboto": "^4.5.8",
-        "@mui/icons-material": "^5.8.4",
+        "@mui/icons-material": "^5.10.9",
         "@mui/lab": "^5.0.0-alpha.95",
         "@mui/material": "^5.10.1",
         "@reduxjs/toolkit": "^1.8.5",
