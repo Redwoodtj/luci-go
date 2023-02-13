@@ -57,7 +57,7 @@
         "@mui/icons-material": "^5.8.4",
         "@mui/lab": "^5.0.0-alpha.95",
         "@mui/material": "^5.10.1",
-        "@reduxjs/toolkit": "^1.8.5",
+        "@reduxjs/toolkit": "^1.9.1",
         "dayjs": "^1.11.5",
         "esbuild-sass-plugin": "^2.3.2",
         "react": "^18.2.0",
