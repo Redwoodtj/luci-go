@@ -72,7 +72,7 @@
     "@mui/material": "^5.9.2",
     "@vaadin/router": "^1.7.4",
     "dayjs": "^1.10.8",
-    "esbuild-sass-plugin": "^2.2.3",
+    "esbuild-sass-plugin": "^2.5.0",
     "nanoid": "^3.3.3",
     "react": "^17.0.2",
     "react-chartjs-2": "^4.0.1",
