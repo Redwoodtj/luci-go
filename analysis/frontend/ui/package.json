@@ -70,7 +70,7 @@
     "@mui/icons-material": "^5.8.4",
     "@mui/lab": "^5.0.0-alpha.92",
     "@mui/material": "^5.9.2",
-    "@vaadin/router": "^1.7.4",
+    "@vaadin/router": "^2.0.0",
     "dayjs": "^1.10.8",
     "esbuild-sass-plugin": "^2.2.3",
     "nanoid": "^3.3.3",
