@@ -37,7 +37,7 @@
     "@material/mwc-textarea": "^0.22.1",
     "@mui/icons-material": "^5.8.4",
     "@mui/material": "^5.9.2",
-    "@vaadin/router": "^1.7.4",
+    "@vaadin/router": "^2.0.0",
     "broadcast-channel": "^4.14.0",
     "codemirror": "^5.65.7",
     "copy-to-clipboard": "^3.3.1",
