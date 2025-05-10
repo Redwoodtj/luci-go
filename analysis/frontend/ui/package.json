@@ -69,7 +69,7 @@
     "@material/mwc-textfield": "^0.25.3",
     "@mui/icons-material": "^5.8.4",
     "@mui/lab": "^5.0.0-alpha.92",
-    "@mui/material": "^5.9.2",
+    "@mui/material": "^7.0.0",
     "@vaadin/router": "^1.7.4",
     "dayjs": "^1.10.8",
     "esbuild-sass-plugin": "^2.2.3",
@@ -78,7 +78,7 @@
     "react-chartjs-2": "^4.0.1",
     "react-dom": "^17.0.2",
     "react-query": "^3.34.16",
-    "react-router-dom": "^6.2.2",
+    "react-router-dom": "^6.4.0",
     "react-use": "^17.3.2"
   }
 }
