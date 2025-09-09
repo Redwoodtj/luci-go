@@ -39,7 +39,7 @@
     "@mui/material": "^5.9.2",
     "@vaadin/router": "^1.7.4",
     "broadcast-channel": "^4.14.0",
-    "codemirror": "^5.65.7",
+    "codemirror": "^6.0.0",
     "copy-to-clipboard": "^3.3.1",
     "d3": "^7.6.1",
     "diff2html": "^3.4.18",
